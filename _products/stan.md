@@ -6,8 +6,8 @@ weight: 3.66
 designer: Birgers Oterutleie
 type: Wood
 condition: Mint
-image: birgerboard-small.jpg
-big_image: birgerboard-big.jpg
+image: stan.jpg
+big_image: stan.jpg
 ---
 
 Призначений розміщувати всередині бронеплити та додаткові протиуламкові елементи для захисту основних летальних зон.
