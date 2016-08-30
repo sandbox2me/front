@@ -24,7 +24,7 @@ defaults:
   values:
     layout: product
 description: "Спорядження для складних ситуацій."
-baseurl:
+baseurl: 
 url: http://www.jekyll-store.com
 defaultAddress:
   country: UA
@@ -68,12 +68,12 @@ prose:
         element: select
         label: Type
         options:
-        - value: Чохли для бронежилетів
-        - value: Розгрузки
-        - value: Рюкзаки
-        - value: Підсумки
-        - value: Аптечки
-        - value: Комплекти
+        - value: "Чохли для бронежилетів"
+        - value: "Розгрузки"
+        - value: "Рюкзаки"
+        - value: "Підсумки"
+        - value: "Аптечки"
+        - value: "Комплекти"
     - name: color
       field:
         element: select
