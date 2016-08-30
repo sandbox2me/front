@@ -23,7 +23,7 @@ defaults:
     type: products
   values:
     layout: product
-description: Mil
+description: "Спорядження для складних ситуацій."
 baseurl: 
 url: http://www.jekyll-store.com
 defaultAddress:
