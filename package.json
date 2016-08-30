@@ -1,5 +1,5 @@
 {
-  "name": "jekyll-store-front",
+  "name": "TTT",
   "description": "Jekyll Frontend for the Jekyll-Store ecommerce solution",
   "scripts": {
     "watch": "watchify -t reactify ./assets/_js/index.js -o ./assets/_js/compiled.js -v",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jekyll-store/front.git"
+    "url": "https://github.com/xetryj/front.git"
   },
   "author": "Max White",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jekyll-store/front/issues"
+    "url": "https://github.com/xetryj/front/issues"
   },
-  "homepage": "https://github.com/jekyll-store/front",
+  "homepage": "https://github.com/xetryj/front",
   "dependencies": {
     "accounting": "^0.4.1",
     "big.js": "^3.0.1",

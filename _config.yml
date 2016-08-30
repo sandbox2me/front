@@ -1,13 +1,13 @@
-title: Jekyll-Store
-description: 'A lightweight, backend-free ecommerce solution.'
-baseurl: /front
+title: Traverse
+description: 'Mil'
+baseurl: ''
 url: 'http://www.jekyll-store.com'
 
 # Jekyll-Store Engine
 defaultAddress:
-  country: GB
+  country: UA
 payment:
-  currency: GBP
+  currency: UAH
   hook: 'https://jekyll-store-microservice.herokuapp.com/purchase'
 tracking_id: 'UA-62379004-1'
 
