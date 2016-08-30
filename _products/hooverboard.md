@@ -1,11 +1,9 @@
 ---
-title: Hooverboard
-name: Hooverboard
-price: 345
-weight: 3.1
-designer: Helge Kirkaune
-type: Metal
-condition: Worn
+title: Чохол для бронежилета «КОРА»
+name: Чохол для бронежилета «КОРА»
+price: 2000
+type: Чохли для бронежилетів
+color: A-TACS FG™
 image: hooverboard-small.jpg
 big_image: hooverboard-big.jpg
 ---
