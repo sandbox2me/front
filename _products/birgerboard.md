@@ -1,6 +1,6 @@
 ---
 title: "Чохол бронежилета «Стан»"
-name: Birgerboard
+name: "Чохол бронежилета «Стан»"
 price: 580
 weight: 3.66
 designer: Birgers Oterutleie
