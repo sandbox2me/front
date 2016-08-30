@@ -24,7 +24,7 @@ defaults:
   values:
     layout: product
 description: "Спорядження для складних ситуацій."
-baseurl:
+baseurl: 
 url: http://www.jekyll-store.com
 defaultAddress:
   country: UA

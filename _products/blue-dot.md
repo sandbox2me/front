@@ -1,8 +1,8 @@
 ---
-title: Розгрузка №1
-name: Розгрузка №1
+title: "Розгрузка №1"
+name: "Розгрузка №1"
 price: 200
-type: Розгрузки
+type: "Розгрузки"
 color: Coyote
 image: blue-dot-small.jpg
 big_image: blue-dot-big.jpg
