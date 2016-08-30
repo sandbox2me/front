@@ -1,7 +1,8 @@
 ---
 title: Regular, Goofy or Just Plain Weird
+date: 2015-02-17 00:00:00 Z
 author: Max White
-author_image: 'max-white.jpg'
+author_image: max-white.jpg
 ---
 
 Donec suscipit quam sit amet nunc venenatis condimentum. Aenean pharetra convallis semper. Donec dictum est odio, vel malesuada tellus ornare at. Cras vestibulum orci tristique molestie bibendum. Sed imperdiet posuere mi, ac cursus neque finibus eu. Morbi quis auctor mi, quis accumsan magna. Donec eleifend eu enim ac sagittis. Integer posuere rhoncus fringilla.

@@ -1,7 +1,8 @@
 ---
 title: Everything You Need to Know About Plasma Stabilizers
+date: 2015-02-06 00:00:00 Z
 author: Max White
-author_image: 'max-white.jpg'
+author_image: max-white.jpg
 ---
 
 In dignissim maximus posuere. Fusce vel arcu ante. Morbi lacinia purus diam, egestas facilisis mauris rhoncus vel. Vestibulum pharetra nibh quam, ultricies consequat leo volutpat eget. Phasellus lectus arcu, molestie quis libero consequat, finibus tempus metus. In vulputate erat a arcu faucibus, at ornare est dapibus.

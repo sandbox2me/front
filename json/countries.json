@@ -1,6 +1,6 @@
 ---
+permalink: "/countries.json"
 layout: compress
-permalink: /countries.json
 ---
 
 {{ site.data.countries | replace: '=>', ':' }}

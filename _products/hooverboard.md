@@ -1,12 +1,13 @@
 ---
+title: Hooverboard
 name: Hooverboard
 price: 345
 weight: 3.1
 designer: Helge Kirkaune
 type: Metal
 condition: Worn
-image: 'hooverboard-small.jpg'
-big_image: 'hooverboard-big.jpg'
+image: hooverboard-small.jpg
+big_image: hooverboard-big.jpg
 ---
 
 Vestibulum convallis posuere felis id maximus. Maecenas euismod, sapien et porttitor consequat, augue arcu tincidunt ex, quis vestibulum quam ex vel ipsum. Etiam suscipit purus non nulla volutpat bibendum. Suspendisse semper a urna quis mollis. Praesent a odio in arcu tempor feugiat.

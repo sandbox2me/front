@@ -1,7 +1,8 @@
 ---
-title: '7 Reasons Hoverboards Are Awesome'
+title: 7 Reasons Hoverboards Are Awesome
+date: 2015-03-15 00:00:00 Z
 author: Max White
-author_image: 'max-white.jpg'
+author_image: max-white.jpg
 ---
 
 Duis accumsan sodales massa nec porttitor. Cras facilisis gravida mi in sollicitudin. Proin sem mauris, tincidunt ut viverra at, pretium sit amet lorem. Ut elit lacus, fermentum at feugiat sit amet, pulvinar tempor neque. Fusce ac quam efficitur, hendrerit ligula at, pharetra quam. Vestibulum lobortis posuere dui quis imperdiet. Fusce egestas leo eu condimentum volutpat. Suspendisse sed convallis sem, sed tincidunt arcu. Nulla consectetur iaculis consequat.

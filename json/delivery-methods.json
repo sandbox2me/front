@@ -1,6 +1,6 @@
 ---
+permalink: "/delivery-methods.json"
 layout: compress
-permalink: /delivery-methods.json
 ---
 
 {{ site.data.delivery-methods | replace: '=>', ':' }}
