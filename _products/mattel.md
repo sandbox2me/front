@@ -1,7 +1,7 @@
 ---
 title: Mattel
-name: Mattel
 price: 565
+name: Mattel
 weight: 2.97
 designer: John Bell
 type: Metallic
