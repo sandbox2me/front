@@ -1,9 +1,11 @@
 ---
-title: "Розгрузка №1"
-name: "Розгрузка №1"
-price: 200
-type: "Розгрузки"
-color: Coyote
+title: Blue Dot
+name: Blue Dot
+price: 285
+weight: 3.39
+designer: Gudrun Brekke
+type: Wood
+condition: Worn
 image: blue-dot-small.jpg
 big_image: blue-dot-big.jpg
 ---

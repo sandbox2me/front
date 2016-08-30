@@ -20,10 +20,16 @@ layout: default
            itemprop='image'/>
       <table>
         <tr>
+          <th>Type</th>
           <td>{{ page.type }}</td>
         </tr>
         <tr>
-          <td>{{ page.color }}</td>
+          <th>Condition</th>
+          <td itemprop='itemCondition'>{{ page.condition }}</td>
+        </tr>
+        <tr>
+          <th>Size</th>
+          <td itemprop='size'>{{ page.size }}Universal</td>
         </tr>
       </table>
     </aside>
