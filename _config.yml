@@ -1,6 +1,6 @@
 ---
 title: Traverse
-timezone: UTC
+timezone: Europe/Kiev
 collections:
   posts:
     title: Posts
@@ -24,7 +24,7 @@ defaults:
   values:
     layout: product
 description: Mil
-baseurl: ''
+baseurl: 
 url: http://www.jekyll-store.com
 defaultAddress:
   country: UA
@@ -102,7 +102,7 @@ prose:
 permalink: blog/:title
 sass:
   sass_dir: "/assets/_sass"
-  style: :compressed
+  style: compressed
 exclude:
 - node_modules
 - Gemfile
