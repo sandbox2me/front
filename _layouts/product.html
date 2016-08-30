@@ -9,7 +9,7 @@ layout: default
   <header>
     <h1 itemprop='name'>{{ page.name }}</h1>
     <h2 itemprop='offers' itemscope itemtype='http://schema.org/Offer'>
-      <span itemprop='priceCurrency' content='GBP'>£</span>
+      <span itemprop='priceCurrency' content='грн'>₴</span>
       <span itemprop='price' content='{{ page.price }}'>{{ page.price }}</span>
     </h2>
   </header>
@@ -28,8 +28,8 @@ layout: default
           <td itemprop='itemCondition'>{{ page.condition }}</td>
         </tr>
         <tr>
-          <th>Weight</th>
-          <td itemprop='weight'>{{ page.weight }}kg</td>
+          <th>Size</th>
+          <td itemprop='size'>{{ page.size }}Universal</td>
         </tr>
       </table>
     </aside>
