@@ -1,8 +1,8 @@
 ---
-title: Чохол для бронежилета «КОРА»
-name: Чохол для бронежилета «КОРА»
+title: "Чохол для бронежилета «КОРА»"
+name: "Чохол для бронежилета «КОРА»"
 price: 2000
-type: Чохли для бронежилетів
+type: "Чохли для бронежилетів"
 color: A-TACS FG™
 image: hooverboard-small.jpg
 big_image: hooverboard-big.jpg
