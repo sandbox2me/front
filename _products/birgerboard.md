@@ -10,10 +10,26 @@ image: birgerboard-small.jpg
 big_image: birgerboard-big.jpg
 ---
 
-Vestibulum euismod turpis vel purus condimentum ultricies id in ipsum. Donec sit amet lectus ut est commodo fermentum in non tortor. Cras imperdiet et tellus ut hendrerit. Donec efficitur dui in dui auctor sagittis. Curabitur rhoncus elit id enim accumsan rutrum. Nunc porta lobortis nisi, volutpat dictum mauris luctus ac. Praesent ullamcorper rhoncus egestas.
+Призначений розміщувати всередині бронеплити та додаткові протиуламкові елементи для захисту основних летальних зон.
+Система MOLLE по всій поверхні дозволяє закріпляти додаткове спорядження. А зйомні демпфери підвищують вентилюємість торса та знижують ризик отримання контузійних травм.
 
-The [images][flickr] used for this product were designed by [Birger´s Oterutleie][designer] and being used under the [creative common's licence][licence].
+Модульна конструкція легко збирається / налаштовується / ремонтується / взаємозаміняється.
 
-[flickr]: http://www.flickr.com/photos/50290212@N05/16189931266
-[designer]: http://birgersoterutleie.com
-[licence]: http://creativecommons.org/licenses/by/2.0
+Кріплення працюють стабільно у брудному середовищі.
+
+Зйомні демпфери знижують ризик отримання контузійних травм.
+
+Швидко вдягається / знімається. Наш рекорд 12 секунд.
+
+Система MOLLE на всій поверхні дозволяє розміщувати додаткове спорядження під конкретні задачі та умови.
+
+Надміцна евакуаційна петля витримує щонайменше 80 кг.
+
+Липучка на всю шрину (Velcro) спереду і ззаду для розміщення шевронів та знаків ідентифікації.
+
+Підвищена вентилюємість торса за рахунок зйомних демпферів.
+
+> Один з наших засновників TTT проходив службу на передовій протягом кампанії 2015-2016 років. Нам не з чуток відомі тонкощі війни та особливості виживання в екстремальних умовах.
+Сектор М, осінь 2015
+
+Кнопки соцмереж
