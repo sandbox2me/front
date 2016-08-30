@@ -24,7 +24,7 @@ defaults:
   values:
     layout: product
 description: "Спорядження для складних ситуацій."
-baseurl: 
+baseurl:
 url: http://www.jekyll-store.com
 defaultAddress:
   country: UA
@@ -66,30 +66,31 @@ prose:
     - name: price
       field:
         element: number
-        label: Price (₴)
+        label: Price (£)
+    - name: weight
+      field:
+        element: number
+        label: Weight (kg)
+    - name: designer
+      field:
+        element: text
+        label: Designer
     - name: type
       field:
         element: select
         label: Type
         options:
-        - value: "Чохли для бронежилетів"
-        - value: "Розгрузки"
-        - value: "Рюкзаки"
-        - value: "Підсумки"
-        - value: "Аптечки"
-        - value: "Комплекти"
-    - name: color
+        - value: Wood
+        - value: Metal
+        - value: Metallic
+    - name: condition
       field:
         element: select
-        label: Color
+        label: Condition
         options:
-        - value: A-TACS FG™
-        - value: A-TACS AU™
-        - value: Multicam™
-        - value: Ukrpixel®
-        - value: Coyote
-        - value: Olive
-        - value: Black
+        - value: Mint
+        - value: Worn
+        - value: Rough
     - name: image
       field:
         element: text
