@@ -6,8 +6,8 @@ weight: 3.39
 designer: Gudrun Brekke
 type: Чохли для бронежилетів
 condition: Worn
-image: blue-dot-small.jpg
-big_image: blue-dot-big.jpg
+image: stan.jpg
+big_image: stan.jpg
 ---
 
 Pellentesque dignissim porttitor leo sed condimentum. Maecenas sodales urna id blandit efficitur. Mauris quis posuere massa, at varius quam. Donec quam leo, sollicitudin a dignissim quis, consectetur quis urna. Duis sit amet est at dolor ultrices eleifend quis faucibus mauris. Morbi mattis suscipit suscipit. Proin ac tristique purus, sed finibus justo.
