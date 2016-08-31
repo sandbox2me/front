@@ -4,7 +4,7 @@ name: Blue Dot
 price: 285
 weight: 3.39
 designer: Gudrun Brekke
-type: Чохли для бронежилетів
+type: "Чохли для бронежилетів"
 condition: Worn
 image: stan.jpg
 big_image: stan.jpg
