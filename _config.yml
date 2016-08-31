@@ -32,7 +32,7 @@ payment:
   currency: UAH
   hook: https://jekyll-store-microservice.herokuapp.com/purchase
 tracking_id: UA-62379004-1
-image_prefix: "/_uploads/"
+image_prefix: "/_site/uploads/"
 paymillPublicKey: 323027826220f6ed944b96a1a47e35a0
 wake_up: http://jekyll-store-microservice.herokuapp.com/ping
 disqus_shortname: jekyll-store
