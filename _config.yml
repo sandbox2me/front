@@ -80,7 +80,7 @@ prose:
         element: select
         label: Type
         options:
-        - value: Wood
+        - value: Чохли для бронежилетів
         - value: Metal
         - value: Metallic
     - name: condition
