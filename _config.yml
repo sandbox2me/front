@@ -80,7 +80,7 @@ prose:
         element: select
         label: Type
         options:
-        - value: "Чохли для бронежилетів"
+        - value: Чохли для бронежилетів
         - value: Metal
         - value: Metallic
     - name: condition
